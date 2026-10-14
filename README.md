@@ -1,5 +1,5 @@
 # Bike Customer Data Cleaning & Purchasing Analysis
-This project explores customer purchasing patterns to identify characteristics associated with bike purchases. The analysis was conducted using Microsoft Excel to clean and validate customer data, create PivotTables, and develop an interactive dashboard to communicate key findings and business recommendations.
+This project explores customer purchasing patterns to identify characteristics associated with bike purchases. The analysis was conducted using `Microsoft Excel` to clean and validate customer data, create `PivotTables`, and develop an interactive `dashboard` to communicate key findings and business recommendations.
 
 ## Dataset
 The dataset contains customer demographic, household, income, and commuting information, including:
@@ -9,7 +9,7 @@ The dataset contains customer demographic, household, income, and commuting info
 - Education and occupation
 - Home ownership and number of cars
 - Commute distance and region
-- Bike purchase status: Yes/No
+- Bike purchase status: Yes/No  
 The original dataset contained 1,026 records. After removing 26 duplicate records, the cleaned dataset contained 1,000 records.
 
 ## Business Questions
