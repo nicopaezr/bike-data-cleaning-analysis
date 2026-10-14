@@ -35,7 +35,7 @@ What customer characteristics are associated with bike purchasing? Which custome
 - Standardized gender values from abbreviated categories (F/M) to descriptive labels.
 - Created age and income groups using Excel formulas to support customer segment analysis.
 
-## Analysis and Dashboard**
+## Analysis and Dashboard
 PivotTables and charts were used to analyze customer purchasing patterns across different segments.
 The dashboard includes:
 - **KPI cards:** Total customers, bike buyers, and overall purchase rate.
